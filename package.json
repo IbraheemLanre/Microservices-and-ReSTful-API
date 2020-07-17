@@ -1,0 +1,27 @@
+{
+  "name": "microservices-and-restful-api",
+  "version": "1.0.0",
+  "description": "Express and Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbraheemLanre/Microservices-and-ReSTful-API.git"
+  },
+  "author": "Ibraheem Olanrewaju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbraheemLanre/Microservices-and-ReSTful-API/issues"
+  },
+  "homepage": "https://github.com/IbraheemLanre/Microservices-and-ReSTful-API#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.24",
+    "nodemon": "^2.0.4"
+  }
+}
